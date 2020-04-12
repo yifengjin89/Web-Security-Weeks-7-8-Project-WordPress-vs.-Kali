@@ -11,3 +11,5 @@ Weeks 7 &amp; 8 Project: WordPress vs. Kali
         Fixed in version: 4.2.13
 	
     GIF Walkthrough:
+	<img src="my_gif_walkthrough_url" width="800">
+
