@@ -20,6 +20,7 @@ Time spent: **6** hours spent in total
      - [http://codepath.org//<svg onload=alert('got_you')]
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [ ] Summary: 
 1. 2.5-4.6 - Authenticated Stored Cross-Site Scripting via Image Filename CVE-2016-7168 
     - Vulnerability types:
     - Tested in version: 2.5-4.6
