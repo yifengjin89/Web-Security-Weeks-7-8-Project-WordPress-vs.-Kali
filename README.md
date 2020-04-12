@@ -9,7 +9,7 @@ Time spent: **6** hours spent in total
 
 ## Pentesting Report
 
-<h2>1.3.7-4.4 Authenticated Cross-Site Scripting (XSS) CVE-2016-1564 </h2>
+1.3.7-4.4 Authenticated Cross-Site Scripting (XSS) CVE-2016-1564 
   - [ ] Summary: 
     - Vulnerability types: 3.7-4.4	
     - Tested in version: 4.2
@@ -30,7 +30,6 @@ Time spent: **6** hours spent in total
   - Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg
   - Create new media in library and upload the image.
   - View attachment page to view the image post.
-
  - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   - [ ] Summary: 
