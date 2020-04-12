@@ -46,6 +46,13 @@ Time spent: **6** hours spent in total
 	
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+	
+   - [Link 2] https://wpvulndb.com/vulnerabilities/8768
+    - [Link 3]https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6817
+   - [Link 4] https://wordpress.org/news/2017/03/wordpress-4-7-3-security-and-maintenance-release/
+   - [Link 5] https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8
+    - [Link 6]https://blog.sucuri.net/2017/03/stored-xss-in-wordpress-core.html
+
 1. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
