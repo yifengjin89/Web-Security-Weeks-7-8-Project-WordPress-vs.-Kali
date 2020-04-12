@@ -16,7 +16,7 @@ Time spent: **6** hours spent in total
     - Fixed in version: 4.26
   - [ ] GIF Walkthrough: ![reply](https://user-images.githubusercontent.com/55426354/79058665-d1ece000-7c3e-11ea-992d-961c92d0f2e7.gif)
   - [ ] Steps to recreate: Post the following XSS code into a comment or post
-	 <p>http://codepath.org/<svg onload=alert('got_you')></p>
+	 http://codepath.org/<svg onload=alert('got_you')>
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
