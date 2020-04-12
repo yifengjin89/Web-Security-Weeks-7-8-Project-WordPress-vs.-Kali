@@ -10,12 +10,12 @@ Time spent: **6** hours spent in total
 ## Pentesting Report
 
 1.3.7-4.4 Authenticated Cross-Site Scripting (XSS) CVE-2016-1564 
-  - [ 1] Summary: 
+  - [ ] Summary: 
     - Vulnerability types: 3.7-4.4	
     - Tested in version: 4.2
     - Fixed in version: 4.26
-  - [1 ] GIF Walkthrough: ![reply](https://user-images.githubusercontent.com/55426354/79058665-d1ece000-7c3e-11ea-992d-961c92d0f2e7.gif)
-  - [ 1] Steps to recreate: Post the following XSS code into a comment or post than do->
+  - [ ] GIF Walkthrough: ![reply](https://user-images.githubusercontent.com/55426354/79058665-d1ece000-7c3e-11ea-992d-961c92d0f2e7.gif)
+  - [ ] Steps to recreate: Post the following XSS code into a comment or post than do->
 	 <span>[http://codepath.org//<svg onload=alert('got_you')]</span>
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
