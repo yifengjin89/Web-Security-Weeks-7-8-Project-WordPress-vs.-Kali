@@ -26,18 +26,9 @@ Time spent: **6** hours spent in total
   - [ ] GIF Walkthrough: ![picture](https://user-images.githubusercontent.com/55426354/79058836-d1eddf80-7c40-11ea-972c-f45bbde089b9.gif)
   - [ ] Steps to recreate:  <ol>
 <li>find an image and upload.</li>
-<ol>
-  <li>
-Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg
-</li>
-<ol>
-<li>
-Create new media in library and upload the image.
-</li>
-<ol>
-<li>
-View attachment page to view the image post.
-</li>
+  <li>Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg</li>
+<li>Create new media in library and upload the image.</li>
+<li>View attachment page to view the image post.</li>
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
