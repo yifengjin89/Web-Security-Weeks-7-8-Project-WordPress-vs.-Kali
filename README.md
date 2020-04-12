@@ -3,9 +3,6 @@ Weeks 7 &amp; 8 Project: WordPress vs. Kali
 
 <h1>Pentesting Report</h1>、
 <hr>
-<table>
-   <tr>
-    <td>
     Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
 
     Summary:
@@ -14,5 +11,3 @@ Weeks 7 &amp; 8 Project: WordPress vs. Kali
         Fixed in version: 4.2.13
 	
     GIF Walkthrough:
-  </td>
-</tr>
