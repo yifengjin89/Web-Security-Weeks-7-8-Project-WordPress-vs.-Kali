@@ -20,8 +20,9 @@ Time spent: **6** hours spent in total
      - [http://codepath.org//<svg onload=alert('got_you')]
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-  - [ ] Summary: 
+ 
 1. 2.5-4.6 - Authenticated Stored Cross-Site Scripting via Image Filename CVE-2016-7168 
+ - [ ] Summary: 
     - Vulnerability types:
     - Tested in version: 2.5-4.6
     - Fixed in version: 4.2
@@ -33,8 +34,9 @@ Time spent: **6** hours spent in total
   - View attachment page to view the image post.
  - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-  - [ ] Summary: 
+
 1.4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds CVE-2015-6535 
+  - [ ] Summary: 
     - Vulnerability types: 4.0-4.7.2
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
