@@ -29,6 +29,7 @@ Time spent: **6** hours spent in total
   <li>Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg</li>
 <li>Create new media in library and upload the image.</li>
 <li>View attachment page to view the image post.</li>
+</ol>
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
