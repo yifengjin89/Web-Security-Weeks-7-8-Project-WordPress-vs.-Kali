@@ -15,7 +15,8 @@ Time spent: **6** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.26
   - [ ] GIF Walkthrough: ![reply](https://user-images.githubusercontent.com/55426354/79058665-d1ece000-7c3e-11ea-992d-961c92d0f2e7.gif)
-  - [ ] Steps to recreate: Post the following XSS code into a comment or post than do->
+  - [ ] Steps to recreate:
+     - Post the following XSS code into a comment or post 
      - [http://codepath.org//<svg onload=alert('got_you')]
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -32,6 +33,7 @@ Time spent: **6** hours spent in total
 
  - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [ ] Summary: 
 1.4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds CVE-2015-6535 
     - Vulnerability types: 4.0-4.7.2
     - Tested in version: 4.2
