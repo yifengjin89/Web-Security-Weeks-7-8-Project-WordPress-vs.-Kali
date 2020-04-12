@@ -37,8 +37,8 @@ Time spent: **6** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
   - [ ] GIF Walkthrough: ![video](https://user-images.githubusercontent.com/55426354/79059136-b2f14c80-7c44-11ea-92db-90ec9597cbcb.gif)
-  - [ ] Steps to recreate: Create a new post and embed a link
-
+  - [ ] Steps to recreate: 
+   - Create a new post and embed a link
    - Insert the malicious YouTube embed shortcode.
    - [embed src='https://www.youtube.com/embed/dQw4w9WgXcQ\x3csvg onload=alert("exploit!")\x3e'][/embed]
   - [ ] Affected source code:
