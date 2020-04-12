@@ -25,7 +25,7 @@ Time spent: **6** hours spent in total
     - Fixed in version: 4.2
   - [ ] GIF Walkthrough: ![picture](https://user-images.githubusercontent.com/55426354/79058836-d1eddf80-7c40-11ea-972c-f45bbde089b9.gif)
   - [ ] Steps to recreate:  
-  -find an image and upload.
+  - find an image and upload.
   - Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg
   - Create new media in library and upload the image.
   - View attachment page to view the image post.
@@ -39,8 +39,8 @@ Time spent: **6** hours spent in total
   - [ ] GIF Walkthrough: ![video](https://user-images.githubusercontent.com/55426354/79059136-b2f14c80-7c44-11ea-92db-90ec9597cbcb.gif)
   - [ ] Steps to recreate: Create a new post and embed a link
 
-Insert the malicious YouTube embed shortcode.
-[embed src='https://www.youtube.com/embed/dQw4w9WgXcQ\x3csvg onload=alert("exploit!")\x3e'][/embed]
+   - Insert the malicious YouTube embed shortcode.
+   - [embed src='https://www.youtube.com/embed/dQw4w9WgXcQ\x3csvg onload=alert("exploit!")\x3e'][/embed]
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)	
    - [Link 2] https://wpvulndb.com/vulnerabilities/8768
