@@ -3,18 +3,18 @@ Weeks 7 &amp; 8 Project: WordPress vs. Kali
 
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name or ID
+1.3.7-4.4 Authenticated Cross-Site Scripting (XSS) CVE-2016-1564 
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+    - Vulnerability types: 3.7-4.4	
+    - Tested in version: 4.2
+    - Fixed in version: 4.26
+  - [ ] GIF Walkthrough: ![reply](https://user-images.githubusercontent.com/55426354/79058665-d1ece000-7c3e-11ea-992d-961c92d0f2e7.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
