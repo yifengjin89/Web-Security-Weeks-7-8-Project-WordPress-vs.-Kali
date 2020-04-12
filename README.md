@@ -19,13 +19,25 @@ Time spent: **6** hours spent in total
 	 <span>[http://codepath.org//<svg onload=alert('got_you')]</span>
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+1. 2.5-4.6 - Authenticated Stored Cross-Site Scripting via Image Filename CVE-2016-7168 
     - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+    - Tested in version: 2.5-4.6
+    - Fixed in version: 4.2
+  - [ ] GIF Walkthrough: ![picture](https://user-images.githubusercontent.com/55426354/79058836-d1eddf80-7c40-11ea-972c-f45bbde089b9.gif)
+  - [ ] Steps to recreate:  <ol>
+<li>find an image and upload.</li>
+<ol>
+  <li>
+Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg
+</li>
+<ol>
+<li>
+Create new media in library and upload the image.
+</li>
+<ol>
+<li>
+View attachment page to view the image post.
+</li>
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
