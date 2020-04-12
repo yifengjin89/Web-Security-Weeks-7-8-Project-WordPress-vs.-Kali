@@ -26,9 +26,9 @@ Time spent: **6** hours spent in total
   - [ ] GIF Walkthrough: ![picture](https://user-images.githubusercontent.com/55426354/79058836-d1eddf80-7c40-11ea-972c-f45bbde089b9.gif)
   - [ ] Steps to recreate:  
   -find an image and upload.
-  -Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg
-  -Create new media in library and upload the image.
-  -View attachment page to view the image post.
+  - Change the .jpg with the following script hope<img src= picture onerror =alert("picture_got_u")>.jpg
+  - Create new media in library and upload the image.
+  - View attachment page to view the image post.
 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
