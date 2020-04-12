@@ -9,7 +9,7 @@ Time spent: **6** hours spent in total
 
 ## Pentesting Report
 
-1.3.7-4.4 Authenticated Cross-Site Scripting (XSS) CVE-2016-1564 
+<h2>1.3.7-4.4 Authenticated Cross-Site Scripting (XSS) CVE-2016-1564 </h2>
   - [ ] Summary: 
     - Vulnerability types: 3.7-4.4	
     - Tested in version: 4.2
